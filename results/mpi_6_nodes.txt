@@ -1,0 +1,3 @@
+Total MPI Execution Time: 5.067427 seconds 
+  - Data Transfer: 2.945712 seconds 
+  - Computation: 2.121715 seconds 
